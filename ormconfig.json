@@ -3,8 +3,8 @@
   "password": "docker",
 
   "type": "postgres",
-  "name": "default",
   "host": "localhost",
+  "name": "default",
   "port": 5432,
   "database": "queries_challenge",
   "entities": ["./src/modules/**/entities/*.ts"],
